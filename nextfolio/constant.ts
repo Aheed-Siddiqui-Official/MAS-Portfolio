@@ -90,7 +90,7 @@ export const profileData: IProfile = {
       description:
         "A feature-rich MERN blogging platform for seamless reading, writing, and management with modern design and smooth performance.",
       images: ["/assets/blog.png",
-        "/assets/blog.dash.png",
+        "/assets/blogdash.png",
         "/assets/blogdet.png",
         "/assets/bloghome.png"
       ],
@@ -257,7 +257,7 @@ export const profileData: IProfile = {
       issuer: "S.M.I.T (Saylani Mass I.T Training)",
       date: "October 2025",
       image:
-        "/assets/certificates/smithack.png",
+        "/assets/certificates/smithack.jpg",
     },
     {
       title: "Career Development Communication & Soft Skills",
