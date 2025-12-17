@@ -6,7 +6,7 @@ const APP_NAME = "Muhammad Aheed Siddiqui";
 const APP_DEFAULT_TITLE = "Muhammad Aheed Siddiqui | Portfolio";
 const APP_TITLE_TEMPLATE = "%s - Muhammad Aheed Siddiqui";
 const APP_DESCRIPTION = "Showcasing Aheed Siddiqui's skills, projects, and expertise in web development. Explore top-notch projects and innovative solutions.";
-const APP_KEYWORDS = ["Huzaifa Khan", "Huzaifa Khan Portfolio", "Portfolio", "Web Developer", "Full Stack Developer", "Next.js", "React", "JavaScript", "Frontend", "Backend", "Projects", "Software Engineer"];
+const APP_KEYWORDS = ["Muhammad Aheed Siddiqui", "Aheed Siddiqui Portfolio", "Portfolio", "Web Developer", "MERN Stack Developer", "React", "JavaScript", "Frontend", "Backend", "Projects", "Software Engineer"];
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
