@@ -9,7 +9,7 @@ export const profileData: IProfile = {
       "https://drive.google.com/file/d/1zGRXVuejD8j3AFPu7G6PofdE1TLQtxXD/view?usp=sharing",
     social_links: {
       github: "https://github.com/Aheed-Siddiqui-Official",
-      linkedin: "www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2",
+      linkedin: "https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
   },
   about: {
