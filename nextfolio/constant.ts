@@ -50,7 +50,7 @@ export const profileData: IProfile = {
     {
       title: "Full Stack Developer",
       company: "DevelopersHub Corporation",
-      period: "Sep 2025 - Present",
+      period: "Sep 2025 - Dec 2025",
       description:
         "Designed and developed full-stack applications using MERN stack.",
       skills: [
@@ -228,6 +228,12 @@ export const profileData: IProfile = {
   ],
 
   certificates: [
+    {
+      title: "Intern at Developer'sHub Corporation",
+      issuer: "Developer'sHub Corporation",
+      date: "December 2025",
+      image: "/assets/certificates/intern1.jpg",
+    },
     {
       title: "Web & Mobile App Development",
       issuer: "S.M.I.T (Saylani Mass I.T Training)",
