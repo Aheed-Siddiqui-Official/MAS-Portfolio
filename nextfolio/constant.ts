@@ -6,7 +6,7 @@ export const profileData: IProfile = {
     title: "MERN Stack Developer",
     subtitle: "Building scalable web applications with modern technologies",
     resume:
-      "https://drive.google.com/file/d/12J-W4FXij1F4EaCPzLiYzKTy6YT0PDV6/view?usp=sharing",
+      "https://drive.google.com/file/d/1UvC5P3gfJnqdTVzJxlk_16vdf3RSOpUs/view?usp=sharing",
     social_links: {
       github: "https://github.com/Aheed-Siddiqui-Official",
       linkedin: "https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
